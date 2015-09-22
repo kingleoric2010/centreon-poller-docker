@@ -1,6 +1,6 @@
 What Is It?
 -----------
-Thist is just sattelite poller for centreon.
+Thist is just satellite poller for centreon.
 To have it working you need to have full centreon installation, and then u can run that poller on remote locations.
 
 
